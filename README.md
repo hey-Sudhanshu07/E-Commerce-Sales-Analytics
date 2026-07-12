@@ -3,6 +3,10 @@
 ## 📝 Project Overview
 This project involves analyzing e-commerce sales data to uncover insights related to product performance, customer acquisition channels, payment preferences, and seasonal revenue trends. The analysis helps in understanding customer behavior and evaluating the effectiveness of promotional strategies.
 
+<img width="1400" height="863" alt="1_SwFB1o_k1LGprN-XRUZQ8w" src="https://github.com/user-attachments/assets/8f4be474-966e-4ad3-bb76-e90eebd1554d" />
+
+---
+
 ## 📁 Dataset
 The analysis is based on the dataset provided in the file: `Product-Sales-Region.xlsx`.
 
@@ -13,6 +17,8 @@ The analysis is based on the dataset provided in the file: `Product-Sales-Region
 4. 💳 What are the most frequently used payment methods by customers?
 5. 📅 How does monthly revenue trend across different years (2023-2025)?
 6. 🎟️ How do different discount coupons (e.g., FREESHIP, SAVE10) impact the total revenue across products?
+
+---
 
 ## 💡 Key Insights
 
